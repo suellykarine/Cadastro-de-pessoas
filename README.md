@@ -1,4 +1,4 @@
-# 🏁 Entrega - Cadastro de pessoas
+# 🏁 Entrega - Cadastro de pessoas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
 
 Para começar faça clone deste [repositório](https://classroom.github.com/a/IHzmQUQf)
 
